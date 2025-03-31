@@ -86,7 +86,7 @@ Repository này chứa các dự án AI mà tôi đã thực hiện trong vai tr
 ### 6. Cashew Quality Inspection 
 **Thời gian**: 2022 - 2023  
 **Công nghệ**:
-- **Models**: YOLOv1, YOLOv3
+- **Models**: CFA, MemSeg, RIAD, FastFlow
 - **Data Processing**: OpenCV, NumPy, Abumentations
 - **Training Framework**: PyTorch
 - **Deployment**: ONNX  
