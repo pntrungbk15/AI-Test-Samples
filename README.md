@@ -31,15 +31,15 @@ Repository này chứa các dự án AI mà tôi đã thực hiện trong vai tr
 - **Application**: Streamlit, Flask  
 **Kết quả**:
   <!-- ![Printing area position offsets](assets/X-ray Baggage/1.jpg) -->
-  <img src="assets/X-ray Baggage/1.jpg" alt="Printing area position offsets" width=60%>
+  <img src="assets/X-ray Baggage/1.jpg" alt="Printing area position offsets" width=30%>
 
-  <img src="assets/X-ray Baggage/2.jpg" alt="Printing area position offsets" width=60%>
+  <img src="assets/X-ray Baggage/2.jpg" alt="Printing area position offsets" width=30%>
 
-  <img src="assets/X-ray Baggage/3.jpg" alt="Printing area position offsets" width=60%>
+  <img src="assets/X-ray Baggage/3.jpg" alt="Printing area position offsets" width=30%>
 
-  <img src="assets/X-ray Baggage/4.jpg" alt="Printing area position offsets" width=60%>
+  <img src="assets/X-ray Baggage/4.jpg" alt="Printing area position offsets" width=30%>
 
-  <img src="assets/X-ray Baggage/5.jpg" alt="Printing area position offsets" width=60%>
+  <img src="assets/X-ray Baggage/5.jpg" alt="Printing area position offsets" width=30%>
 
 ### 3. Fabric Quality Inspection
 **Thời gian**: 2022 - 2023  
