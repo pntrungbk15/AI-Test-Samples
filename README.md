@@ -193,5 +193,7 @@ Repository này chứa các dự án AI mà tôi đã thực hiện trong vai tr
 
   <img src="assets/Paper Quality Check/4.jpg" alt="Printing area position offsets" width=60%>
 
+  <img src="assets/Paper Quality Check/5.jpg" alt="Printing area position offsets" width=60%>
+
 ## Kết luận
 Các dự án trên thể hiện khả năng của tôi trong việc áp dụng các kỹ thuật AI tiên tiến để giải quyết các vấn đề thực tế trong công nghiệp. Từ phát hiện khuyết điểm đến nhận dạng đối tượng, tôi đã tích lũy được kinh nghiệm quý báu trong việc triển khai các giải pháp AI từ đầu đến cuối.
