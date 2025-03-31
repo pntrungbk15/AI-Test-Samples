@@ -176,5 +176,22 @@ Repository này chứa các dự án AI mà tôi đã thực hiện trong vai tr
 
   <img src="assets/Counting the Number of Bottles in a Carton/5.jpg" alt="Printing area position offsets" width=60%>
 
+### 11. Paper Quality Check
+**Thời gian**: 2023 - 2024  
+**Công nghệ**:
+- **Models**: MemSeg
+- **Data Processing**: OpenCV, NumPy, Pandas
+- **Training Framework**: PyTorch
+- **Deployment**: Gradio, Flask, ONNX  
+**Kết quả**:
+  <!-- ![Printing area position offsets](assets/Paper Quality Check/1.jpg) -->
+  <img src="assets/Paper Quality Check/1.jpg" alt="Printing area position offsets" width=60%>
+
+  <img src="assets/Paper Quality Check/2.jpg" alt="Printing area position offsets" width=60%>
+
+  <img src="assets/Paper Quality Check/3.jpg" alt="Printing area position offsets" width=60%>
+
+  <img src="assets/Paper Quality Check/4.jpg" alt="Printing area position offsets" width=60%>
+
 ## Kết luận
 Các dự án trên thể hiện khả năng của tôi trong việc áp dụng các kỹ thuật AI tiên tiến để giải quyết các vấn đề thực tế trong công nghiệp. Từ phát hiện khuyết điểm đến nhận dạng đối tượng, tôi đã tích lũy được kinh nghiệm quý báu trong việc triển khai các giải pháp AI từ đầu đến cuối.
